@@ -3,3 +3,7 @@ test for collide
 test for collide2
 
 test for collide3
+
+test for collide
+
+test for collide
